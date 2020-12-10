@@ -1,5 +1,4 @@
 # Flow Regime Analysis to inform the 2020 Basin Plan Evaluation
-FlowAnalysis2020BPE
 
 These notebooks document flow regime ananlysis undertaken by MDBA for the hydrology component of the 2020 Basin Plan Evaluation.
 
