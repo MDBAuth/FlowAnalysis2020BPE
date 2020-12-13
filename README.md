@@ -13,3 +13,12 @@ To achieve repeatable qualitative analysis, two sample statistical tests have be
 In analysing the flow regime metrics, neutral language was chosen for condition assessment. Increased/Decreased was used in favour of Improved/Degraded to avoid a values assessment. An increase of transmissions of flow in a region where high levels of inter-valley trade and aggressive use of water in storage is taking place is not necessarily an improved result in the context of meeting Basin Plan objectives.  
 
 A multiple lines of evidence approach was used in the 2020 BPE to assess the complex adaptive system. In terms of hydrologic analysis, this means that various data sources and analysis techniques were utilised. Both modelled and observed flow data were considered, and analysis developed internally by the MDBA was supplemented by other relevant information, such as the Commonwealth Environmental Water Holders Long Term Intervention Monitoring hydrology analysis.
+
+
+# Requirements 
+ - Python 3.6
+ - [Jupyter Notebook](https://jupyter.org/)
+ - [NumPy](https://numpy.org/doc/stable/index.html)
+ - [SciPy](https://scipy.org/scipylib/index.html)
+ - [Pandas](https://pandas.pydata.org/)
+ - Internet conection to data.gov.au
